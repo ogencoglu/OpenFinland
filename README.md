@@ -61,7 +61,7 @@ A sentiment analyzer out of the IMDB movie reviews is already implemented in the
 
 #### Detection of Trolls from Discussion Forums
 
-Many forums suffer the presence of trolls. Troll activities include posting wrong or irrelevant information, insulting, posting irrelevant images (especially pornography). Automatic detection of such activities rely both on text analysis and image analysis algorihms. Here is a discussion about bugs on Suomi24:
+Many forums suffer the presence of trolls. Troll activities include posting wrong or irrelevant information, insulting, posting irrelevant images (especially pornography). Automatic detection of such activities rely both on text analysis and image analysis algorithms. Here is a discussion about bugs on Suomi24:
 
 http://keskustelu.suomi24.fi/t/5173609/lutikka-vieraana
 
