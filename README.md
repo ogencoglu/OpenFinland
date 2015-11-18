@@ -87,7 +87,7 @@ State-of-the-art image recognition algorithms are able to recognize objects from
 <br>
 <br>
 
-The user was posting a relevant image apparently. The source code is available.
+The user was posting a relevant image apparently. The source code is available for the image recognition part.
 
 #### Monitoring the Effect of Economic Trends on Public Opinion
 #### Analysis of Political Stands
