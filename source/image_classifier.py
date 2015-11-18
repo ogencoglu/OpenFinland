@@ -80,6 +80,7 @@ def bgr2rgb(im):
 if __name__ == "__main__":  
     
     # Load pretrained model
+    # Note:The pretrained network is downloaded from https://s3.amazonaws.com/lasagne/recipes/pretrained/imagenet/vgg19_normalized.pkl
     model, classes, mean, output_layer = load_model('vgg_cnn_s.pkl')
     
     start = datetime.now()
