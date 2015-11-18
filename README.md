@@ -32,24 +32,71 @@ These datasets can be:
 * Facebook (*https://www.facebook.com/*)
 * Statistics Finland (*http://tilastokeskus.fi/index_en.html*)
 * THL (*http://www.thl.fi/ttr/gen/rpt/tilastot.html*)
+* Instagram (*https://instagram.com/*) (not completely open dataset though)
+* ImageNet (*http://www.image-net.org/*)
 
 Couple of examples:
 
 #### Public Attention Analysis
 
-Simple trend analysis and anomaly detection out of Wikipedia hit counts, Suomi24 etc. A simple example is below. Apparently, 
+Simple trend analysis and anomaly detection out of Wikipedia hit counts, Suomi24 etc. A simple example for hit counts of wikipedia pages is below.  
 <br>
-<a href="url"><img src="https://github.com/ogencoglu/OpenFinland/blob/master/images/wikitrends.png" align="left" width="200" ></a>
+<a href="url"><img src="https://github.com/ogencoglu/OpenFinland/blob/master/images/wikitrends.png" align="left" width="800" ></a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 
 #### Disease Surveillance
 
+I have already proved this to be working but unfortunately, the results can not be published before the scientific publication which is under review. Contact me for details.
+
+#### Sentiment Analysis
+
+A sentiment analyzer out of the IMDB movie reviews is already implemented in the "source" directory. Machine translation and language modeling can be implemented to apply it for Finnish language.
+
+#### Detection of Trolls from Discussion Forums
+
+Many forums suffer the presence of trolls. Troll activities include posting wrong or irrelevant information, insulting, posting irrelevant images (especially pornography). Automatic detection of such activities rely both on text analysis and image analysis algorihms. Here is a discussion about bugs on Suomi24:
+
+http://keskustelu.suomi24.fi/t/5173609/lutikka-vieraana
+
+One of the users posts the following post (which has an url to an image) on the forum:
+<br>
+<a href="url"><img src="https://github.com/ogencoglu/OpenFinland/blob/master/images/bug_post.png" align="left" width="800" ></a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+State-of-the-art image recognition algorithms are able to recognize objects from images thus serving as an automatic moderator for the forums. Here is the image and the 5 most probable outputs created by AI:
+<br>
+<a href="url"><img src="https://github.com/ogencoglu/OpenFinland/blob/master/images/dl4.png" align="left" width="800" ></a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+The user was posting a relevant image apparently. The source code is available.
 
 #### Monitoring the Effect of Economic Trends on Public Opinion
 #### Analysis of Political Stands
 #### Analysis of Consumer Behavior
 #### Detection of Suicide Tendency
+#### Analyzing the Most Influential Users in a Discussion Forum
+#### Detection of Bots in Discussion Forums
+#### Detection of Similar Topics in Discussion Forums
+etc.
 
 
 
