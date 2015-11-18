@@ -39,7 +39,7 @@ Couple of examples:
 
 Simple trend analysis and anomaly detection out of Wikipedia hit counts, Suomi24 etc. A simple example is below. Apparently, 
 <br>
-<a href="url"><img src="https://github.com/ogencoglu/OpenFinland/tree/master/images/wikitrends.PNG" align="left" width="200" ></a>
+<a href="url"><img src="https://github.com/ogencoglu/OpenFinland/blob/master/images/wikitrends.png" align="left" width="200" ></a>
 <br>
 
 
