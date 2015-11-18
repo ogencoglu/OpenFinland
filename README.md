@@ -67,7 +67,7 @@ http://keskustelu.suomi24.fi/t/5173609/lutikka-vieraana
 
 One of the users posts the following post (which has an url to an image) on the forum:
 <br>
-<a href="url"><img src="https://github.com/ogencoglu/OpenFinland/blob/master/images/bug_post.png" align="left" width="800" ></a>
+<a href="url"><img src="https://github.com/ogencoglu/OpenFinland/blob/master/images/bug_post.PNG" align="left" width="800" ></a>
 
 <br>
 <br>
