@@ -47,8 +47,6 @@ Simple trend analysis and anomaly detection out of Wikipedia hit counts, Suomi24
 <br>
 <br>
 <br>
-<br>
-<br>
 
 
 #### Disease Surveillance
@@ -82,11 +80,44 @@ One of the users posts the following post (which has an url to an image) on the 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 State-of-the-art image recognition algorithms are able to recognize objects from images thus serving as an automatic moderator for the forums. Here is the image and the 5 most probable outputs created by AI:
 <br>
 <a href="url"><img src="https://github.com/ogencoglu/OpenFinland/blob/master/images/dl4.png" align="left" width="800" ></a>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
