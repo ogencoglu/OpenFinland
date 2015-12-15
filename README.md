@@ -75,6 +75,13 @@ One of the users posts the following post (which has an url to an image) on the 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 State-of-the-art image recognition algorithms are able to recognize objects from images thus serving as an automatic moderator for the forums. Here is the image and the 5 most probable outputs created by AI:
 <br>
