@@ -61,6 +61,8 @@ Simple trend analysis and anomaly detection out of Wikipedia hit counts, Suomi24
 <br>
 <br>
 <br>
+<br>
+<br>
 
 #### Disease Surveillance
 
@@ -80,6 +82,8 @@ One of the users posts the following post (which has an url to an image) on the 
 <br>
 <a href="url"><img src="https://github.com/ogencoglu/OpenFinland/blob/master/images/bug_post.PNG" align="left" width="800" ></a>
 
+<br>
+<br>
 <br>
 <br>
 <br>
