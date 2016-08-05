@@ -52,6 +52,15 @@ Simple trend analysis and anomaly detection out of Wikipedia hit counts, Suomi24
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### Disease Surveillance
 
